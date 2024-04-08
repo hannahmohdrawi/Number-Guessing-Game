@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: midnightblue;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.button{
+    cursor:pointer;
+    transition: background-color 0.25s;
+
+}
+
+.buttons:hover{
+    background-color:bisque;
+
+}
+
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5em;
+}
+
+label, p{
+    font-size: 2em;
+
+}
+
