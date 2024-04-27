@@ -9,4 +9,6 @@ Using HTML and CSS to create a static website to allow user input of a number. F
 * CSS
 * JavaScript
 
+## Completed Date:
+* 08 Apr 2024
 
